@@ -1,0 +1,10 @@
+[package]
+name = "reEFId"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "re_efi_d"
+path = "src/main.rs"
+
+[dependencies]
